@@ -1,0 +1,94 @@
+[
+  {
+    "path": "/places/50",
+    "method": "GET",
+    "statusCode": 200,
+    "data": {
+      "id": 50,
+      "title": "Test Page",
+      "description": "<p><strong>asdasdasdasdasdasdasdasdadasdasdasd<strong>asdasdasdasdasdasdasdasdadasdasdasd<strong>asdasdasdasdasdasdasdasdadasdasdasd<strong>asdasdasdasdasdasdasdasdadasdasdasd<strong>asdasdasdasdasdasdasdasdadasdasdasd<strong>asdasdasdasdasdasdasdasdadasdasdasd</strong></strong></strong></strong></strong></strong></p><p><em>ddsdsdsdsdasdasdkjaldjlaksjdlasjdlksajdlajsldjsdksdjskdjskdjksjdkjsdkjsdkjsdkjskdjskdjkdjksjdksjdksjdksjdksjdksjkdjskd</em></p><p><em>sdsdasdsad<u>sdsdsdsdadaldakdksdksl;dkslkdlskdlskdlskdlskdlskdlskdlskdlks</u></em></p><p><em><u><a href=\"https://flutter.dev/\">KEK</a></u></em></p><p><em><u><a href=\"https://flutter.dev/\">https://flutter.dev/</a></u></em></p>",
+      "contacts": "<p>Est quis quo eveniet. Quidem explicabo sit quasi aliquam nesciunt.</p>",
+      "work_time": "1",
+      "category": {
+        "id": 3,
+        "name": "Отели"
+      },
+      "tags": [
+        {
+          "id": 1,
+          "name": "Дружелюбны для животных",
+          "description": null
+        },
+        {
+          "id": 2,
+          "name": "Правильное питание",
+          "description": null
+        },
+        {
+          "id": 6,
+          "name": "Большая винная карта",
+          "description": null
+        },
+        {
+          "id": 7,
+          "name": "Рыба, мясо",
+          "description": null
+        },
+        {
+          "id": 9,
+          "name": "Отдельные зоны",
+          "description": null
+        },
+        {
+          "id": 11,
+          "name": "играет Dj",
+          "description": null
+        },
+        {
+          "id": 12,
+          "name": "Видовой",
+          "description": null
+        },
+        {
+          "id": 15,
+          "name": "Только открылось",
+          "description": null
+        },
+        {
+          "id": 18,
+          "name": "Курс от шефа",
+          "description": null
+        }
+      ],
+      "address": {
+        "id": 140,
+        "full": "1967 Larkin Rest\nBuckridgebury, ME 62720-8987",
+        "country": "Svalbard & Jan Mayen Islands",
+        "house": "",
+        "region": "",
+        "city_district": "",
+        "city": "West Hellen",
+        "street": "Romaguera Drive",
+        "latitude": "55.7503036",
+        "longitude": "37.7215576"
+      },
+      "image": {
+        "url": "https://img.freepik.com/free-photo/lovely-pet-portrait-isolated_23-2149192347.jpg?size=626&ext=jpg&ga=GA1.1.265341089.1722373123&semt=ais_hybrid"
+      },
+      "images": [
+        {
+          "url": "https://img.freepik.com/free-photo/portrait-of-adorable-domestic-cat_23-2149167040.jpg?size=626&ext=jpg&ga=GA1.1.265341089.1722373123&semt=ais_hybrid"
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/the-cat-on-white-space_155003-7047.jpg?size=626&ext=jpg&ga=GA1.1.265341089.1722373123&semt=ais_hybrid"
+        },
+        {
+          "url": "https://img.freepik.com/free-photo/gray-kitty-with-monochrome-wall-her_23-2148955127.jpg?t=st=1722373268~exp=1722376868~hmac=f51d33203888a6f5b1371bb6cc1c789ebe35f7b1ed692f94b77d64dd946f8f34&w=740"
+        }
+      ]
+    },
+    "status": "success",
+    "errors": null,
+    "message": ""
+  }
+]

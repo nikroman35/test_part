@@ -1,0 +1,79 @@
+name: test_part
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.6
+
+  #code_gen:
+  freezed: 2.5.2
+  json_annotation: 4.9.0
+  json_serializable: 6.8.0
+  freezed_annotation: 2.4.1
+
+  #dependency_injection
+  get_it: 7.7.0
+  injectable: 2.4.2
+
+  #state_manager
+  flutter_bloc: 8.1.6
+  provider: 6.1.2
+  rxdart: 0.27.7
+
+  #network
+  dio: 5.4.3+1
+  http: 1.2.1
+  dio_mock_interceptor: 2.1.0
+  http_mock_adapter: 0.6.1
+
+  #utils
+  collection: 1.18.0
+  intl: 0.19.0
+  url_launcher: 6.3.0
+  yandex_mapkit: 4.1.0
+  yandex_geocoder: 2.3.1
+  geolocator: 12.0.0
+
+  #ui
+  flutter_svg_provider: 1.0.7
+  flutter_svg: 2.0.10+1
+  flutter_html: 3.0.0-beta.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+  #code
+  injectable_generator: 2.6.1
+  build_runner: 2.4.11
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+    - assets/img/
+    - assets/mock/
+
+  fonts:
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/Manrope-Bold.ttf
+        - asset: assets/fonts/Manrope-ExtraBold.ttf
+        - asset: assets/fonts/Manrope-ExtraLight.ttf
+        - asset: assets/fonts/Manrope-Light.ttf
+        - asset: assets/fonts/Manrope-Medium.ttf
+        - asset: assets/fonts/Manrope-Regular.ttf
+        - asset: assets/fonts/Manrope-SemiBold.ttf
